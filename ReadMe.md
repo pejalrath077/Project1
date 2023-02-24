@@ -8,18 +8,18 @@ The data was scraped from the https://github.com/BivinSadler/MSDS_6306_Doing-Dat
 The dataset is provided in a CSV file (beers.csv and breweries.csv) with the following columns:
 
 ### beers.csv:
-Name: Name of the beer.
-Beer_ID: Unique identifier of the beer.
-ABV: Alcohol by volume of the beer.
-IBU: International Bitterness Units of the beer.
-Brewery_ID: Brewery id associated with the beer.
-Style: Style of the beer.
-Ounces: Ounces of beer.
+Name: Name of the beer.<br />
+Beer_ID: Unique identifier of the beer.<br />
+ABV: Alcohol by volume of the beer.<br />
+IBU: International Bitterness Units of the beer.<br />
+Brewery_ID: Brewery id associated with the beer.<br />
+Style: Style of the beer.<br />
+Ounces: Ounces of beer.<br />
 
 ### breweries.csv:
-Brew_ID: Unique identifier of the brewery.
-Name: Name of the brewery.
-City: City where the brewery is located.
+Brew_ID: Unique identifier of the brewery.<br />
+Name: Name of the brewery.<br />
+City: City where the brewery is located.<br />
 State: U.S. State where the brewery is located.
 
 ## Data Use

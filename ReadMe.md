@@ -3,7 +3,7 @@
 This dataset contains information about 2410 US craft beers and 558 US breweries in the United States. The data was collected from BeerAdvocate and includes details such as the name, style, alcohol by volume (ABV) and IBV as well as the location and type of each brewery.
 
 ## Data Sources
-The data was scraped from the https://github.com/BivinSadler/MSDS_6306_Doing-Data-Science/tree/Master/Unit%208%20and%209%20Case%20Study%201.
+The data was scraped from the https://github.com/BivinSadler/MSDS_6306_Doing-Data-Science/tree/Master/Unit%208%20and%209%20Case%20Study%201.<br />
 YouTube: https://youtu.be/T5X5YXi1lwY
 
 ## Data Format

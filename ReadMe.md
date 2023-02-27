@@ -1,4 +1,6 @@
 # Project 1
+## Author
+Kyle Kuberski and Pejal Rath
 ## Beer and Brewery Dataset
 This dataset contains information about 2410 US craft beers and 558 US breweries in the United States. The data was collected from BeerAdvocate and includes details such as the name, style, alcohol by volume (ABV) and IBV as well as the location and type of each brewery.
 

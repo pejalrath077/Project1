@@ -7,7 +7,9 @@ This dataset contains information about 2410 US craft beers and 558 US breweries
 ## Data Sources
 The data was scraped from the https://github.com/BivinSadler/MSDS_6306_Doing-Data-Science/tree/Master/Unit%208%20and%209%20Case%20Study%201.<br />
 YouTube: https://youtu.be/T5X5YXi1lwY
-
+## Tool
+RStudio<br />
+ChatGPT: https://chat.openai.com/
 ## Data Format
 The dataset is provided in a CSV file (beers.csv and breweries.csv) with the following columns:
 
